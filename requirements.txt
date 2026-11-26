@@ -1,0 +1,2 @@
+# Standard-library lesson code; notebook support
+ipykernel
